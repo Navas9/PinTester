@@ -145,7 +145,7 @@ void setup() {
 
   //Inicialización del display en 0x3C
     if (!oled.begin(SSD1306_SWITCHCAPVCC, 0x3C)) {
-    Serial.println(F("SSD1306 direcion incorrecta"));
+    Serial.println(F("SSD1306 direccion incorrecta"));
     while (true);
   }
 
