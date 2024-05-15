@@ -18,7 +18,14 @@
     oled.setCursor(30, 40); //Posición del texto
     if (estadoSalida > 80){
       oled.println(" OK");
-    }else(oled.println(" FAIL"));
+      Serial.print("PIN");
+      Serial.print(i+1);
+      Serial.println("#OK");
+    }else{
+      oled.println(" FAIL");
+      Serial.print("PIN");
+      Serial.print(i+1);
+      Serial.println("#KO");};
     oled.display();               //Mostramos en pantalla
     
     // Mostrar el estado de la salida actual por Serial
@@ -30,4 +37,5 @@
     // Retardo
     delay(500);
   };
+  Serial.print("#Off");
   };
