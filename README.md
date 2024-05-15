@@ -11,4 +11,4 @@
 - <img src="https://img.shields.io/badge/Modo_10_pines-OK-green">
 - <img src="https://img.shields.io/badge/Modo_6_pines-OK-green">
 - <img src="https://img.shields.io/badge/Modo_4_pines-PRÓXIMAMENTE-navy">
-- <img src="https://img.shields.io/badge/HMI-PRÓXIMAMENTE-navy">
+- <img src="https://img.shields.io/badge/HMI-OK-green">
