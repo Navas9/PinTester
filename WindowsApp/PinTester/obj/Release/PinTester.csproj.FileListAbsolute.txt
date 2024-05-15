@@ -1,0 +1,13 @@
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\bin\Release\ControlLed.exe.config
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\bin\Release\ControlLed.exe
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\bin\Release\ControlLed.pdb
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Release\PinTester.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Release\ControlLed.Form1.resources
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Release\ControlLed.ImagesSrc.Resource1.resources
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Release\ControlLed.ImagesSrc.Resource2.resources
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Release\ControlLed.ImagesSrc.Resource3.resources
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Release\ControlLed.Properties.Resources.resources
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Release\PinTester.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Release\PinTester.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Release\ControlLed.exe
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Release\ControlLed.pdb

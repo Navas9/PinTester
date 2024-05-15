@@ -1,0 +1,30 @@
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\bin\Debug\PinTester.exe.config
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\bin\Debug\PinTester.exe
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\bin\Debug\PinTester.pdb
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.exe
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.pdb
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.Form1.resources
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.ImagesSrc.Resource1.resources
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.ImagesSrc.Resource2.resources
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.ImagesSrc.Resource3.resources
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.ImagesSrc.Resource4.resources
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.ImagesSrc.Resource5.resources
+C:\Users\carlo\Downloads\ControlLed2(solution) (1)\ControlLed2\ControlLed\obj\Debug\PinTester.Properties.Resources.resources
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.exe
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.pdb
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.Form1.resources
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.ImagesSrc.Resource1.resources
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.ImagesSrc.Resource2.resources
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.ImagesSrc.Resource3.resources
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.ImagesSrc.Resource4.resources
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.ImagesSrc.Resource5.resources
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.Properties.Resources.resources
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\PinTester\PinTester\obj\Debug\PinTester.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\PinTester\PinTester\bin\Debug\PinTester.exe.config
+C:\Users\carlo\Desktop\PinTester\PinTester\bin\Debug\PinTester.exe
+C:\Users\carlo\Desktop\PinTester\PinTester\bin\Debug\PinTester.pdb
