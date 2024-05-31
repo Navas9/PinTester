@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
 
-- <img src="https://img.shields.io/badge/Comprobación_de_continuidad-OK-green"></a>
+- <img src="https://img.shields.io/badge/Comprobación_de_continuidad-OK-green">
 - <img src="https://img.shields.io/badge/Conexionado_entre_terminales-WORKING-orange">
 - <img src="https://img.shields.io/badge/Simulador_de_señales-WORKING-orange">
 - <img src="https://img.shields.io/badge/Detección_automática_de_número_de_pines-OK-green">
